@@ -1,0 +1,57 @@
+
+
+header h1{
+    text-align: center;
+   color: rgb(39, 15, 146);
+   padding-top: 50px;
+}
+header p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+header a{
+   
+    text-decoration: none;
+    color:rgb(39, 15, 146) ;
+}
+header h5{
+    text-align: right;
+    margin-right: 30px;
+    font-size: 18px;
+}
+.card{
+margin: 20px;
+}
+.card img{
+    
+    height: 300px;
+}
+.card-text{
+    height: 150px;
+}
+.card-title{
+    height: 50px;
+}
+footer{
+    background-color: rgb(16, 3, 97);
+   padding: 5px;
+    margin-top: 30px;
+    height: 150px;
+}
+footer ul li{
+    list-style: none;
+    margin-top: 20px;
+  text-align: center;
+  
+}
+footer a{
+    text-decoration: none;
+    color:white
+}
+footer li{
+    margin-top: 10px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
